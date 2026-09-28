@@ -74,8 +74,8 @@ First public release of bunvue, a port of `@fastify/vite` and `@fastify/vue` to
 - A standalone `basic` example with ESLint and Prettier set up, copied with giget,
   plus demos for locale prefix routing, locale domain routing and reverse proxying.
 
-[Unreleased]: https://github.com/bunvue/bunvue/compare/v0.1.0-beta.3...main
-[0.1.0-beta.3]: https://github.com/bunvue/bunvue/compare/v0.1.0-beta.2...v0.1.0-beta.3
-[0.1.0-beta.2]: https://github.com/bunvue/bunvue/compare/v0.1.0-beta.1...v0.1.0-beta.2
-[0.1.0-beta.1]: https://github.com/bunvue/bunvue/compare/v0.1.0-beta.0...v0.1.0-beta.1
-[0.1.0-beta.0]: https://github.com/bunvue/bunvue/commits/v0.1.0-beta.0
+[Unreleased]: https://github.com/zanmato/bunvue/compare/v0.1.0-beta.3...main
+[0.1.0-beta.3]: https://github.com/zanmato/bunvue/compare/v0.1.0-beta.2...v0.1.0-beta.3
+[0.1.0-beta.2]: https://github.com/zanmato/bunvue/compare/v0.1.0-beta.1...v0.1.0-beta.2
+[0.1.0-beta.1]: https://github.com/zanmato/bunvue/compare/v0.1.0-beta.0...v0.1.0-beta.1
+[0.1.0-beta.0]: https://github.com/zanmato/bunvue/commits/v0.1.0-beta.0
